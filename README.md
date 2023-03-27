@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#ABOUT PROJECT
+
+This is a restaurant hotel landing page sample template to showcase my UI/UX with react.js
+To run this project, ensure you are in the project directory and run npm i to install dependencies.
+To start this app, run npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
